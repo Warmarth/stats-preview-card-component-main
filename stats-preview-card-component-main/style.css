@@ -115,7 +115,7 @@ article {
     display: grid;
     grid-template-columns: 1fr 1fr;
     place-items: center;
-    min-width: 45rem;
+    min-width: 70vw;
     & .img {
       order: 2;
       background-color: var(--soft-violet);
